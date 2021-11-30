@@ -1,0 +1,15 @@
+body{
+    background-image: url("template.jpg");
+    background-size: cover;
+}
+#back_btn{
+   margin-left: 10px;
+   background-color: transparent;
+   border-color: tomato;
+   color: gray;
+}
+#h1{
+    color: white;
+    font-weight: 400;
+    font-family: 'Roboto Mono', monospace;
+}
